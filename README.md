@@ -1036,7 +1036,7 @@ If you fork the project on GitHub, you can run your fork's [build workflow](.git
                                     --print/--output), "before_dl" (before each
                                     video download), "post_process" (after each
                                     video download; default), "after_move"
-                                    (after moving video file to it's final
+                                    (after moving video file to its final
                                     locations), "after_video" (after downloading
                                     and processing all formats of a video), or
                                     "playlist" (at end of playlist). This option
